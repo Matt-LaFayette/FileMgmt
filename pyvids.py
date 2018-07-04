@@ -10,7 +10,6 @@ now = datetime.datetime.now()
 date = now.strftime('%m-%d-%y')
 
 
-#creates the zip folder
 print '-'*15
 print 'creating archive'
 
