@@ -1,2 +1,2 @@
 # FileMgmt
-File managment system for motioneye security system
+File managment for motioneye security system
